@@ -6,3 +6,6 @@ As outlined in Figure 1, the proposed method develops an auxiliary lung segmente
 
 ![](https://github.com/Han-Yuan-Med/constrained-explanation/blob/main/Constrained%20explanation-pipeline.png)
 *Figure 1: Schematic diagram of the proposed boundary-aware explanation*
+
+### Citation
+Han Yuan, Lican Kang. Anatomic Boundary-aware Explanation for Convolutional Neural Networks in Diagnostic Radiology.
