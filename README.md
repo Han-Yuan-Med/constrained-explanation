@@ -1,6 +1,6 @@
 # Anatomic Boundary-aware Explanation for Convolutional Neural Networks in Diagnostic Radiology
 ### Citation
-Yuan, H. and Kang L. Anatomic Boundary-aware Explanation for Convolutional Neural Networks in Diagnostic Radiology. 2024.
+Yuan, H. Anatomic Boundary-aware Explanation for Convolutional Neural Networks in Diagnostic Radiology. iRadiology. 2025.
 
 > ### Please read our [article](https://) for further information.
 We propose a plug-and-play module that explicitly integrates anatomic boundary information into the explanation process for CNN-based thoracopathy classification. To generate the anatomic boundary of the lung parenchyma, we utilize a lung segmentation model developed on external public datasets and deploy it on the unseen target dataset for CNN explanations in the clinical task of thoracopathy classification.
